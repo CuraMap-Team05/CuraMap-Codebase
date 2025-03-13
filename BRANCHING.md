@@ -1,7 +1,7 @@
 
-# **Contributing Guidelines for Care Connect Project**
+# **Contributing Guidelines for CuraMap Project**
 
-Welcome to the Care Connect Project! This document will guide you on how to contribute effectively. Follow these steps to ensure we maintain a clean, organized, and efficient workflow.
+Welcome to the CuraMap Project! This document will guide you on how to contribute effectively. Follow these steps to ensure we maintain a clean, organized, and efficient workflow.
 
 ---
 
@@ -23,7 +23,7 @@ Our repository uses a branching strategy to manage changes systematically. Hereâ
   ```plaintext
   feature/<feature-name>
   ```
-  **Example**: `feature/patient-registration`.
+  **Example**: `feature/user-registration`.
 
 ---
 
@@ -35,14 +35,14 @@ Our repository uses a branching strategy to manage changes systematically. Hereâ
 ### **Step 2: Clone the Repository**
 - Clone the repository to your local machine:
   ```bash
-  git clone git@github.com:Althub-Team7/CareConnect-Codebase.git
+  git clone git@github.com:CuraMap-Team05/CuraMap-Codebase.git
   ```
 
 ### **Step 3: Set Upstream Remote**
 - After cloning, set the upstream remote to the main repository:
   ```bash
   cd CareConnect
-  git remote add upstream git@github.com:Althub-Team7/CareConnect-Codebase.git
+  git remote add upstream git@github.com:CuraMap-Team05/CuraMap-Codebase.git
   ```
 
 ---
@@ -63,7 +63,7 @@ git checkout -b feature/<feature-name>
 ```
 **Example**:
 ```bash
-git checkout -b feature/patient-registration
+git checkout -b feature/user-registration
 ```
 
 ---
@@ -79,7 +79,7 @@ Make your changes in the appropriate files. Follow these steps after completing 
   ```
 - **Commit your changes** with a descriptive message:
   ```bash
-  git commit -m "Added patient registration form for Module-1"
+  git commit -m "Added user registration form"
   ```
 
 ---
@@ -91,7 +91,7 @@ Make your changes in the appropriate files. Follow these steps after completing 
   ```
 **Example**:
 ```bash
-git push origin feature/patient-registration
+git push origin feature/user-registration
 ```
 
 ---
@@ -162,4 +162,4 @@ Hereâ€™s a quick reference for common Git commands:
 
 ---
 
-By following these guidelines, weâ€™ll ensure a smooth and organized development process. Thank you for contributing to Care Connect!
+By following these guidelines, weâ€™ll ensure a smooth and organized development process. Thank you for contributing to CuraMap!
