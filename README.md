@@ -50,7 +50,7 @@ Patients often face challenges in finding and obtaining prescribed medications f
 
 ## **Contributing** 🤝  
 We welcome contributions!  
-To Contribute, please refer to the [CONTRIBUTING.md](#https://github.com/CuraMap-Team05/CuraMap-Codebase/blob/development/CONTRIBUTING.md) file
+To Contribute, please refer to this document [CONTRIBUTING.md](#https://github.com/CuraMap-Team05/CuraMap-Codebase/blob/development/CONTRIBUTING.md)
 
 ---
 
