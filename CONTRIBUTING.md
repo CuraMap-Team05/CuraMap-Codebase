@@ -5,7 +5,6 @@ Thank you for your interest in contributing to the CuraMap Project! Whether you'
 ---
 
 ### **Table of Contents**
-BRANCHING.md  CODE_OF_CONDUCT.md  CODING_STANDARD.md
 1. [Code of Conduct](#CODE_OF_CONDUCT.md)  
 2. [Getting Started](#getting-started)  
 3. [Branching Workflow](#BRANCHING.md)  
@@ -117,4 +116,4 @@ If you encounter any issues or have questions, feel free to open an issue or con
                
 ---
 
-Thank you for contributing to CuraMap Project! Let’s build something amazing together. 
+Thank you for contributing to CuraMap! Let’s build something amazing together. 
