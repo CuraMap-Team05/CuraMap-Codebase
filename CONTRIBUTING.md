@@ -1,6 +1,6 @@
-# **Contributing to Care Connect Project**
+# **Contributing to CuraMap Project**
 
-Thank you for your interest in contributing to the Care Connect Project! Whether you're fixing a bug, adding a new feature, or improving documentation, we’re excited to have you on board. This guide will walk you through the process of contributing to our project.
+Thank you for your interest in contributing to the CuraMap Project! Whether you're fixing a bug, adding a new feature, or improving documentation, we’re excited to have you on board. This guide will walk you through the process of contributing to our project.
 
 ---
 
@@ -28,14 +28,14 @@ Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). We expect a
 2. Click the *Fork* button at the top right.  
 3. Clone the forked repository to your local machine:  
    ```bash
-   git clone git@github.com:Althub-Team7/CareConnect-Codebase.git
+   git clone git@github.com:CuraMap-Team05/CuraMap-Codebase.git
    ```
 
 #### **Setting Up Your Local Environment**
 
 1. Navigate to the project directory:  
    ```bash
-   cd CareConnect
+   cd CuraMap
    ```
 2. Install dependencies (if any):  
    ```bash
@@ -46,7 +46,7 @@ Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). We expect a
 
 To keep your fork up to date with the development repository:  
 ```bash
-git remote add upstream git@github.com:Althub-Team7/CareConnect-Codebase.git
+git remote add upstream git@github.com:CuraMap-Team05/CuraMap-Codebase.git
 git fetch upstream
 git merge upstream/development
 ```
@@ -114,7 +114,7 @@ Here are some important resources to guide your contributions:
 ### **Need Help?**
 
 If you encounter any issues or have questions, feel free to open an issue or contact the project maintainers. We’re here to help!
-
+               
 ---
 
-Thank you for contributing to Care Connect Project! Let’s build something amazing together. 
+Thank you for contributing to CuraMap Project! Let’s build something amazing together. 
