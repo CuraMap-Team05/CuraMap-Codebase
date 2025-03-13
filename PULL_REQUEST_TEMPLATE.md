@@ -1,5 +1,5 @@
 # **Pull Request Guidelines**  
-Thank you for contributing to the Care Connect project! Please follow the steps below when submitting a pull request (PR).  
+Thank you for contributing to CuraMap! Please follow the steps below when submitting a pull request (PR).  
 
 ---
 
