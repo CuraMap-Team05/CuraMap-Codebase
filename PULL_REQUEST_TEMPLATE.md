@@ -7,7 +7,7 @@ Thank you for contributing to the Care Connect project! Please follow the steps 
 Use a clear and descriptive title that summarizes the purpose of the PR.  
 
 **Examples**:  
-- Fix: Correct typo in patient registration form  
+- Fix: Correct typo in user registration form  
 - Feat: Add user authentication to Module 1  
 
 ---
@@ -21,9 +21,9 @@ Provide a brief description of the changes made in this PR. Include:
 **Example**:  
 ```markdown
 ## Description  
-- **What**: Added a patient registration feature to Module 1.  
+- **What**: Added a user registration feature to src.  
 - **Why**: To enable healthcare providers to register new patients.  
-- **How**: Created a new form component in `src/module1/registration`.  
+- **How**: Created a new form component in `src/registration`.  
 ```  
 
 ---
@@ -59,11 +59,11 @@ Add any additional context or information that reviewers might need.
 ---
 
 ## **7. PR Submission Process**  
-1. Ensure your changes are committed to a feature branch (e.g., `feat-patient-registration`).  
+1. Ensure your changes are committed to a feature branch (e.g., `feat-user-registration`).  
 2. Rebase your branch with the latest development branch before opening a PR.  
 3. Submit the PR and assign at least one reviewer.  
 
 ---
 
 ## **Thank You!**  
-Thank you for your contributions to the CareConnect project!  
+Thank you for your contributions to CuraMap!  
