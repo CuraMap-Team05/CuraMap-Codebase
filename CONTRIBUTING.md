@@ -1,4 +1,4 @@
-# **Contributing to CuraMap Project**
+# **Contributing to CuraMap**
 
 Thank you for your interest in contributing to the CuraMap Project! Whether you're fixing a bug, adding a new feature, or improving documentation, we’re excited to have you on board. This guide will walk you through the process of contributing to our project.
 
