@@ -1,5 +1,5 @@
 
-# **Contributing Guidelines for CuraMap Project**
+# **Contributing Guidelines for CuraMap**
 
 Welcome to the CuraMap Project! This document will guide you on how to contribute effectively. Follow these steps to ensure we maintain a clean, organized, and efficient workflow.
 
