@@ -41,7 +41,7 @@ Our repository uses a branching strategy to manage changes systematically. Hereâ
 ### **Step 3: Set Upstream Remote**
 - After cloning, set the upstream remote to the main repository:
   ```bash
-  cd CareConnect
+  cd CuraMap
   git remote add upstream git@github.com:CuraMap-Team05/CuraMap-Codebase.git
   ```
 
