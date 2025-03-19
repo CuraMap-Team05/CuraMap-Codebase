@@ -3,7 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest",
+    "migrate:create": "migrate-mongoose create",
+    "migrate:up": "migrate-mongoose up",
+    "migrate:down": "migrate-mongoose down",
+    "migrate": "node -r ./initMongoose.js node_modules/.bin/migrate"
   },
   "keywords": [],
   "author": "",
